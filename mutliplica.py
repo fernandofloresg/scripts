@@ -16,7 +16,7 @@ def multiplica(a,b):
         
         print(resultado)
     
-multiplica(3,6)
+multiplica(5,5)
         
         
     
