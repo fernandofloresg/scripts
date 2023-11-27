@@ -15,6 +15,7 @@ def multiplica(a,b):
         resultado=resultado * i
         
         print(resultado)
+        #apurale Eyder
     
 multiplica(3,6)
         
