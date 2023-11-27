@@ -17,7 +17,7 @@ def multiplica(a,b):
         print(resultado)
         #apurale Eyder
     
-multiplica(3,6)
+multiplica(5,5)
         
         
     
